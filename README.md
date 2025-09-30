@@ -18,7 +18,8 @@
 ## MY ACHIEVEMENTS-
 
 1) Won LIVEAI Global - 2025 in multiple categories, including - UAI Gold, -Global AI/ML Honourable Mention, -Global Development Honourable Mention
-<img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/6bd17d8d-c91c-44df-b58c-7f424d5109e5" />
+<img width="720" height="416" alt="image" src="https://github.com/user-attachments/assets/291621b6-1369-4bb1-8f2b-93e24651d84f" />
+
 
 2) Qualified out of 100 elite students for free event tickets and attended the NEXT Hackathon at Super AI 2025 in Marina Bay Sands, Placed in the top 10 teams out of 60
 <img width="720" height="416" alt="image" src="https://github.com/user-attachments/assets/30af1f0a-be8a-454a-9f06-1336736ada6b" />
