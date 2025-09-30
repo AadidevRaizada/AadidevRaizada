@@ -1,4 +1,7 @@
-## Hi there 👋
+## ONE MORE REP 💪 - I MEAN CODE PUSH 
+
+<img width="1301" height="682" alt="image" src="https://github.com/user-attachments/assets/484ff0da-ea6c-4d0e-be5b-5536a16a9d5b" />
+
 
 <!--
 **AadidevRaizada/AadidevRaizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
