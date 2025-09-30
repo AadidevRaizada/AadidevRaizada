@@ -15,6 +15,8 @@
 >I live by: "The reason for my success is me, the reason for my failure is me" :D
 <img width="1356" height="712" alt="image" src="https://github.com/user-attachments/assets/7a933331-544d-4e16-9621-ac9cc00776d2" />
 
+<details>
+  <summary>Click to know more..</summary><br/>
 ## MY ACHIEVEMENTS-
 
 1) Won LIVEAI Global - 2025 in multiple categories, including - UAI Gold, -Global AI/ML Honourable Mention, -Global Development Honourable Mention
@@ -26,7 +28,7 @@
 
 3) Qualified for Smart India Hackathon 2025, problem statement 25125, out of 295 teams. [Ongoing]
 ![WhatsApp Image 2025-09-27 at 12 36 58_4fcaf310](https://github.com/user-attachments/assets/f1415cc6-1e9e-4ad7-9e94-397feea51332)
-
+</details>
 
 <!--
 **AadidevRaizada/AadidevRaizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
