@@ -1,5 +1,6 @@
 ## ONE MORE REP 💪 - I MEAN CODE PUSH 
 ![Aadidev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadidevRaizada&theme=dark&show_icons=true) 
+[S CLASS SOON >:D]
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
